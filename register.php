@@ -1,0 +1,5 @@
+ <div style="font-size:26px" align="center"><p style="font-family:heading;"><a href="how to pay/index.html" target="_blank">How to Register ?<span></span><span></span> <span>&#8658;</span></a></p></div>
+                         <div style="font-size:26px" align="center"><p style="font-family:heading;"><a href="#register">Offline Register<span></span><span></span> <span>&#8658;</span></a></p></div> 
+                         <div style="font-size:26px" align="center"><p style="font-family:heading;"><a href="https://paytm.com/education" target="_blank">Online Register<span></span><span></span> <span>&#8658;</span></a></p></div> 
+                        <div class="bottom" style="font-size: 10px"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+                    </div>
